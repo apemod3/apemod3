@@ -5,7 +5,7 @@
 [![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit)](https://streamlit.io/)
 [![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code)](https://code.visualstudio.com/)
 
-**Aspiring Full-Stack Developer | Building My Way to Australia**  
+**Aspiring Full-Stack Developer/ML Engineer | Building My Way **  
 📍 Currently in Berlin | 🎯 Seeking Internships & Opportunities in Australia/Berlin/Malaysia
 
 ## 🚀 Featured Projects
