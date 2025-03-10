@@ -24,7 +24,6 @@
 
 ## 💻 Development Setup
 
-```bash
 OS: Windows 11 Pro
 Editor: VS Code with Python & GitLens extensions
 Tools: Git Bash, Windows Terminal
