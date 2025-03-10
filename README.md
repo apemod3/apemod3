@@ -12,9 +12,9 @@
 
 | Project | Tech Stack | Demo | Code |
 |---------|------------|------|------|
-| [News Sentiment Dashboard](https://github.com/apemod3/News-Headline-Sentiment-Analysis-Dashboard) | Python, NLTK, Streamlit | [Live Demo](https://apemod3-news-headline-sentiment-analysis-dashboard-streamlit-app-8r9bfl.streamlit.app/) | [<kbd>Code</kbd>](https://github.com/apemod3/News-Headline-Sentiment-Analysis-Dashboard) |
-| [Number Guesser Game](https://github.com/apemod3/Number-Guesser) | Python, Tkinter | [Screenshot](#) | [<kbd>Code</kbd>](https://github.com/apemod3/Number-Guesser) |
-| [Python Calculator](https://github.com/apemod3/calculator) | Python | CLI | [<kbd>Code</kbd>](https://github.com/apemod3/calculator) |
+| [News Sentiment Dashboard](https://github.com/apemod3/sentiment-dashboard) | Python, NLTK, Streamlit | [Live Demo](https://sentiment-dash.streamlit.app/) | [<kbd>Code</kbd>](https://github.com/apemod3/sentiment-dashboard) |
+| [Number Guesser Game](https://github.com/apemod3/Day1) | Python, Tkinter | [Live Demo](https://apemod3.github.io/Day1/number_guesser.html) | [<kbd>Code</kbd>](https://github.com/apemod3/Day1) |
+| [Python Calculator](https://apemod3.github.io/Day1/calculator.html) | Python | CLI | [<kbd>Code</kbd>](https://github.com/apemod3/Day1) |
 
 ## 📊 GitHub Stats
 
