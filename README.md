@@ -8,6 +8,33 @@
 **Aspiring Full-Stack Developer/ML Engineer | Building My Way **  
 📍 Currently in Berlin | 🎯 Seeking Internships & Opportunities in Australia/Berlin/Malaysia
 
+## 📌 Pinned Repositories
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3><a href="https://github.com/apemod3/sentiment-dashboard">News Sentiment Dashboard</a></h3>
+      <div>
+        <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python">
+        <img src="https://img.shields.io/badge/NLTK-3.8.1-green">
+        <img src="https://img.shields.io/badge/Streamlit-1.29-red">
+      </div>
+      <p>Real-time sentiment analysis of news headlines with interactive dashboard</p>
+      <a href="https://sentiment-dash.streamlit.app/">Demo</a> | <a href="https://github.com/apemod3/sentiment-dashboard">Code</a>
+    </td>
+    <td width="33%">
+      <h3><a href="https://github.com/apemod3/Day1">Python Games Suite</a></h3>
+      <div>
+        <img src="https://img.shields.io/badge/Python-3.11-blue">
+        <img src="https://img.shields.io/badge/Tkinter-yellow">
+        <img src="https://img.shields.io/badge/CLI-lightgrey">
+      </div>
+      <p>Collection of beginner-friendly Python apps including Number Guesser and Calculator</p>
+      <a href="https://apemod3.github.io/Day1/number_guesser.html">Number Demo</a> | <a href="https://apemod3.github.io/Day1/calculator.html">Calc Demo</a>
+    </td>
+  </tr>
+</table>
+
 ## 🚀 Featured Projects
 
 | Project | Tech Stack | Demo | Code |
