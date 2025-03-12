@@ -13,6 +13,18 @@
 <table>
   <tr>
     <td width="33%">
+      <h3><a href="https://github.com/apemod3/Mindmeld_AI">Mindmeld AI</a></h3>
+      <div>
+        <img src="https://img.shields.io/badge/Python-3.12-blue?logo=python">
+        <img src="https://img.shields.io/badge/Flask-3.0-green?logo=flask">
+        <img src="https://img.shields.io/badge/Claude_3-API-purple?logo=anthropic">
+        <img src="https://img.shields.io/badge/Render-Deploy-teal">
+      </div>
+      <p>AI journal companion analyzing daily entries with emotional intelligence</p>
+      <a href="https://mindmeld-ai.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-FF4B4B?logo=render"></a> 
+      <a href="https://github.com/apemod3/Mindmeld_AI"><img src="https://img.shields.io/badge/Code-181717?logo=github"></a>
+    </td>
+    <td width="33%">
       <h3><a href="https://github.com/apemod3/sentiment-dashboard">News Sentiment Dashboard</a></h3>
       <div>
         <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python">
@@ -39,6 +51,7 @@
 
 | Project | Tech Stack | Demo | Code |
 |---------|------------|------|------|
+| **Mindmeld AI** | Flask, Claude-3, Render | Emotional NLP analysis with dynamic response generation | [Demo](https://mindmeld-ai.onrender.com/) • [Code](https://github.com/apemod3/Mindmeld_AI) |
 | [News Sentiment Dashboard](https://github.com/apemod3/sentiment-dashboard) | Python, NLTK, Streamlit | [Live Demo](https://sentiment-dash.streamlit.app/) | [<kbd>Code</kbd>](https://github.com/apemod3/sentiment-dashboard) |
 | [Number Guesser Game](https://github.com/apemod3/Day1) | Python, Tkinter | [Live Demo](https://apemod3.github.io/Day1/number_guesser.html) | [<kbd>Code</kbd>](https://github.com/apemod3/Day1) |
 | [Python Calculator](https://apemod3.github.io/Day1/calculator.html) | Python | CLI | [<kbd>Code</kbd>](https://github.com/apemod3/Day1) |
