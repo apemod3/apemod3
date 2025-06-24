@@ -31,7 +31,7 @@
         <li>Modern Portfolio Theory implementation</li>
         <li>Real-time stock & crypto tracking</li>
       </ul>
-      <a href="https://quantwand-frontend.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-FF6900?logo=vercel&logoColor=white"></a> 
+      <a href="https://quantwand.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-FF6900?logo=vercel&logoColor=white"></a> 
       <a href="https://github.com/apemod3/quantwand"><img src="https://img.shields.io/badge/Code-181717?logo=github"></a>
     </td>
     <td width="33%">
@@ -81,7 +81,7 @@
 
 | Project | Domain | Tech Highlights | Status | Demo |
 |---------|--------|-----------------|---------|------|
-| **QuantWand Terminal** | FinTech/Quant Finance | React + Express, Monte Carlo Simulation, Real-time APIs | 🟢 Production | [Live Demo](quantwand.vercel.app) |
+| **QuantWand Terminal** | FinTech/Quant Finance | React + Express, Monte Carlo Simulation, Real-time APIs | 🟢 Production | [Live Demo](https://quantwand.vercel.app) |
 | **Advanced ML Dashboard** | Machine Learning/NLP | Fine-tuned Transformers, RAG, Multi-modal AI | 🟢 Production | [Live Demo](https://sentiment-dash.streamlit.app/) |
 | **Mindmeld AI** | AI/Psychology | Claude-3 API, Emotional Intelligence, Flask | 🟢 Production | [Live Demo](https://mindmeld-ai.onrender.com/) |
 | [Python Games Suite](https://github.com/apemod3/Day1) | Education/Gaming | Python, Tkinter, CLI Applications | ✅ Complete | [Demos](https://apemod3.github.io/Day1/) |
